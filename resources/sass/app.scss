@@ -1,0 +1,25 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.action{
+    .cpt{
+        color: red;
+    }
+    .n_cpt{
+        color:green
+    }
+}
+
+#outer{
+    width: 25%;
+    text-align: center;
+}
+.inner{
+    display: inline-block;
+}
